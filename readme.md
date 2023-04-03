@@ -42,3 +42,13 @@
 ![Dart](https://img.shields.io/badge/dart-0D1117.svg?style=for-the-badge&logo=dart&logoColor=%2302569B)
 ![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=typescript&logoColor=%2302569B)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=white)
+
+
+<div align="center">
+<br><p align="centre"><b>Total de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joelpmonteiro}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
