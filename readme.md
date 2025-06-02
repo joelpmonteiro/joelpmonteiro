@@ -36,13 +36,16 @@
 ![Postgres](https://img.shields.io/badge/postgres-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=%23007ACC)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=typescript&logoColor=%2302569B)&nbsp;
 ![Sequelize](https://img.shields.io/badge/Sequelize-0D1117?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
+![ElysiaJS](https://elysiajs.com/assets/elysia.svg)
+![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=typescript&logoColor=%2302569B)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-0D1117.svg?style=for-the-badge&logo=Flutter&logoColor=%2302569B)
 ![Dart](https://img.shields.io/badge/dart-0D1117.svg?style=for-the-badge&logo=dart&logoColor=%2302569B)
-![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=typescript&logoColor=%2302569B)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=white)
+
 
 
 <div align="center">
