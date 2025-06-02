@@ -37,7 +37,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=typescript&logoColor=%2302569B)&nbsp;
 ![Sequelize](https://img.shields.io/badge/Sequelize-0D1117?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)
 ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
-![ElysiaJS](https://elysiajs.com/assets/elysia.svg)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-Server-orange)
 ![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=typescript&logoColor=%2302569B)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=white)
 
